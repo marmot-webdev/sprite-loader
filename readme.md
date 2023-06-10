@@ -180,4 +180,4 @@ A callback function that is called after all sprites have been loaded and insert
 
 Copyright (c) 2023—present, Serhii Babakov.
 
-The library is [licensed](/LICENSE) under [The MIT License](https://opensource.org/licenses/MIT).
+The library is [licensed](/license.txt) under [The MIT License](https://opensource.org/licenses/MIT).
